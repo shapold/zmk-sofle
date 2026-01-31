@@ -51,8 +51,7 @@
         keyX {
             bindings = <&kp LEFT_BRACKET>;
             key-positions = <24 25>;
-            layers = <0>;
-            timeout-ms = <1>;
+            timeout-ms = <0>;
         };
     };
 
