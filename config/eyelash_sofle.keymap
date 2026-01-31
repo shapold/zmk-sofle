@@ -47,6 +47,12 @@
             bindings = <&soft_off>;
             key-positions = <14 28 40>;
         };
+
+        keyX {
+            bindings = <&kp NON_US_BACKSLASH>;
+            key-positions = <24 25>;
+            layers = <0>;
+        };
     };
 
     macros {
@@ -135,5 +141,3 @@
         };
     };
 };
-
-
