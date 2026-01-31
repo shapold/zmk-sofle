@@ -1009,6 +1009,11 @@ rect.held, rect.combo.held {
 <text x="868" y="112" class="combo tap">[</text>
 <text x="868" y="101" class="combo shifted">{</text>
 </g>
+<g class="combo combopos-2">
+<rect rx="6" ry="6" x="630" y="78" width="28" height="26" class="combo"/>
+<text x="644" y="91" class="combo tap">[</text>
+<text x="644" y="80" class="combo shifted">{</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 776)" class="layer-layer2">
