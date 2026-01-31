@@ -330,4 +330,3 @@ combos:
   k: '&soft_off'
 - p: [24, 25]
   k: {t: '[', s: '{'}
-  l: [LAYER0]
