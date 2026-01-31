@@ -53,6 +53,13 @@
             key-positions = <24 25>;
             timeout-ms = <0>;
         };
+
+        keyX2 {
+            bindings = <&kp LEFT_BRACKET>;
+            key-positions = <20 21>;
+            timeout-ms = <0>;
+            layers = <1>;
+        };
     };
 
     macros {
