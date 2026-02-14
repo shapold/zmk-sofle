@@ -56,7 +56,7 @@
 
         keyRB {
             bindings = <&kp RIGHT_BRACKET>;
-            key-positions = <25 24>;
+            key-positions = <37 38>;
             timeout-ms = <0>;
         };
     };
