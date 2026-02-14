@@ -50,15 +50,14 @@
 
         keyX {
             bindings = <&kp LEFT_BRACKET>;
-            key-positions = <24 25>;
+            key-positions = <25 24>;
             timeout-ms = <0>;
         };
 
-        keyX2 {
-            bindings = <&kp LEFT_BRACKET>;
-            key-positions = <20 21>;
+        keyRB {
+            bindings = <&kp RIGHT_BRACKET>;
+            key-positions = <25 24>;
             timeout-ms = <0>;
-            layers = <1>;
         };
     };
 
